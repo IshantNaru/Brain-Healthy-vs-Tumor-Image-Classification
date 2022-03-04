@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+tensorflow
+flask
+keras
+split-folders
+opencv-python
+scipy
+flask
+pybase64
+git-bash
+heroku
+gunicorn
