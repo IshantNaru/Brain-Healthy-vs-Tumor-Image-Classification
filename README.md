@@ -15,5 +15,5 @@ Uses a convolutional neural network with pretrained base of InceptionResNetV2 wi
 2. copy and paste the API url + "/predict" in postman.
 3. Select "method" as "POST", select "body" as "raw"
 4. Open "https://base64.guru/converter/encode/image" in your web browser, upload the test image and click on "Encode image to base64" (encodes image to be tested into string format) 
-5. Copy the image string from output, go to postman and in the body create a dictionary with key as "image" and value as the copied string (in double quotes).
+5. Copy the image string from output, go to postman and in the body create a dictionary with key as "file" and value as the copied string (in double quotes).
 6. Press "send", and it yields the predictions about the test image in the output window of the postman app. 
