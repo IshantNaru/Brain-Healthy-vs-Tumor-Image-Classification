@@ -6,7 +6,7 @@ Uses a convolutional neural network with pretrained base of InceptionResNetV2 wi
 2. Open the project path in pycharm
 3. Create a virtual environment and select the python interpreter 
 4. Activate the virtual environment in pycharm 
-5. To install all essential libraries run command "pip install -r requirements.txt" using the local terminal 
+5. To install all essential libraries run command ```pip install -r requirements.txt``` using the local terminal 
 6. Change the paths inside the code according to your directory names 
 7. In the app.py file, run the file in pycharm and copy the API url from the output window
 
